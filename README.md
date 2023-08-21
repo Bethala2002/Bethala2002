@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bethala2002
+- 👋 Hi, I’m @Adithya2002
 - 👀 I’m interested in web development,frontend and backend
 - 🌱 I’m currently learning python html css
 - 💞️ I’m looking to collaborate on ...
